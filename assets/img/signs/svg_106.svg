@@ -1,0 +1,14 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  4.1.6
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <path d="M37500 4500c18225,0 33000,14775 33000,33000 0,16967 -12805,30940 -29278,32790l1 -28684c-78,-2454 2143,-4971 4675,-4932l6157 0 0 6000 14674 -9759 -14674 -9750 0 6000 -5806 0c-2975,-90 -6277,1253 -8736,3727 -2463,-2490 -5777,-3843 -8762,-3752l-5806 0 0 -6000 -14674 9750 14674 9759 0 -6000 6157 0c2571,-40 4754,2510 4675,4983l25 28661c-16485,-1839 -29302,-15818 -29302,-32793 0,-18225 14775,-33000 33000,-33000z">
+  </path>
+ </g>
+</svg>

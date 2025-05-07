@@ -1,0 +1,34 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 65000 95000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.34.1
+ </title>
+ <g fill="#FFD323" stroke="gray" stroke-width="800">
+  <rect height="90000" rx="4500" ry="4500" width="60000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="5_34_1">
+   <path d="M55500 1000l-51000 0c-1925,0 -3500,1575 -3500,3500l0 81000c0,1925 1575,3500 3500,3500l51000 0c1925,0 3500,-1575 3500,-3500l0 -81000c0,-1925 -1575,-3500 -3500,-3500zm0 1000l-51000 0c-1375,0 -2500,1125 -2500,2500l0 81000c0,1375 1125,2500 2500,2500l51000 0c1375,0 2500,-1125 2500,-2500l0 -81000c0,-1375 -1125,-2500 -2500,-2500z">
+   </path>
+   <path d="M30894 1549l0 23877c0,532 -435,968 -967,968l-6054 0c-532,0 -967,-436 -967,-968l0 -23877 7988 0z">
+   </path>
+   <path d="M23873 63606l6054 0c532,0 967,436 967,968l0 23877 -7988 0 0 -23877c0,-532 435,-968 967,-968z">
+   </path>
+   <path d="M42061 62346l0 26096 4857 0 0 -27540c27,-907 -140,-2251 -1342,-3414l-14677 -16039 2853 -2771 -12873 -4058 3684 12985 2852 -2771 13800 15080c640,844 820,1450 846,2432z">
+   </path>
+   <polygon points="10023,1539 10023,48877 6046,48877 12452,60758 18857,48877 14880,48877 14880,1539 ">
+   </polygon>
+   <circle cx="44420" cy="16338" fill="#FFF" r="10000" stroke="#FFF">
+   </circle>
+   <path d="M44420 7005c5155,0 9333,4179 9333,9333 0,5155 -4178,9334 -9333,9334 -5155,0 -9333,-4179 -9333,-9334 0,-5154 4178,-9333 9333,-9333zm0 1950c-4078,0 -7383,3305 -7383,7383 0,4079 3305,7384 7383,7384 4078,0 7383,-3305 7383,-7384 0,-4078 -3305,-7383 -7383,-7383z" fill="red">
+   </path>
+  </symbol>
+  <use x="2500" xlink:href="#5_34_1" y="2500">
+  </use>
+ </g>
+</svg>

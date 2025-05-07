@@ -1,0 +1,40 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 185000 95000" width="240px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.8.7
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="90000" rx="4500" ry="4500" width="180000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <symbol id="5_8_7">
+   <path d="M94338 10734l2500 0 0 -7234 -2500 0 0 7234zm0 10128l2500 0 0 -7234 -2500 0 0 7234zm0 10127l2500 0 0 -7234 -2500 0 0 7234zm0 10128l2500 0 0 -7234 -2500 0 0 7234zm0 10128l2500 0 0 -7234 -2500 0 0 7234zm0 10127l2500 0 0 -7234 -2500 0 0 7234zm0 10128l2500 0 0 -7234 -2500 0 0 7234zm-46111 0l2500 0 0 -68000 -2500 0 0 68000z" fill="#FFF">
+   </path>
+  </symbol>
+  <symbol id="arrow down direction">
+   <polygon fill="#FFF" points="5938,0 5938,46358 0,46358 9500,63000 19000,46358 13063,46358 13063,0 ">
+   </polygon>
+  </symbol>
+  <rect height="86000" rx="2500" ry="2500" width="176000" x="4500" y="4500">
+  </rect>
+  <g transform="scale(1.280)">
+   <use x="1" xlink:href="#5_8_7" y="-500">
+   </use>
+  </g>
+  <g fill="#FFF" transform="scale(1.280)">
+   <use x="17000" xlink:href="#arrow down direction" y="2500">
+   </use>
+  </g>
+  <g fill="#FFF" transform="scale(1.280)">
+   <use x="63000" xlink:href="#arrow up direction" y="9000">
+   </use>
+  </g>
+  <g fill="#FFF" transform="scale(1.280)">
+   <use x="109500" xlink:href="#arrow up direction" y="9000">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+</svg>

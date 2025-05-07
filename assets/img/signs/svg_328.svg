@@ -1,0 +1,22 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.23 временный
+ </title>
+ <g fill="#FFD323" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <use x="16000" xlink:href="#truck_backside" y="23000">
+  </use>
+  <use x="40000" xlink:href="#auto_backside" y="33000">
+  </use>
+  <path d="M37493 3507c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm27615 15931l-45684 45684c5190,3404 11398,5385 18069,5385 18225,0 33000,-14775 33000,-33000 0,-6671 -1980,-12879 -5385,-18069zm-46940 44819l46074 -46074c-296,-409 -601,-811 -915,-1206l-46365 46365c395,314 797,619 1206,915zm-2363 -1880l46557 -46557c-329,-377 -667,-747 -1013,-1109l-46653 46653c362,346 731,683 1109,1013zm-2169 -2074l46652 -46652c-362,-346 -731,-684 -1108,-1013l-46557 46557c329,377 667,746 1013,1108zm-1978 -2265l46365 -46365c-395,-314 -796,-620 -1206,-916l-46075 46075c296,409 602,811 916,1206zm-1781 -2462l45684 -45684c-5191,-3404 -11398,-5385 -18069,-5385 -18225,0 -33000,14775 -33000,33000 0,6671 1981,12878 5385,18069z">
+  </path>
+ </g>
+</svg>

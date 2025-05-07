@@ -1,0 +1,38 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.3
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+  <g fill="#FFF">
+   <use height="10000" x="-12000" xlink:href="#digit_5" y="85000">
+   </use>
+   <use height="10000" x="-4400" xlink:href="#digit_0" y="85000">
+   </use>
+   <use height="10000" x="3500" xlink:href="#digit_0" y="85000">
+   </use>
+   <use height="10000" x="11500" xlink:href="#char_m" y="85000">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="6_3">
+   <path d="M21972 44000l0 -41799c0,-582 230,-1143 642,-1555 412,-414 973,-646 1557,-646l17629 0c583,0 1142,232 1554,646 414,412 646,973 646,1555l0 41798 -22028 1zm4346 -26597l13381 -2c729,0 1273,-590 1273,-1319l0 -10805c0,-349 -129,-709 -370,-949 -240,-242 -600,-372 -950,-372l-13334 0c-349,0 -686,141 -933,388 -246,246 -387,582 -387,933l0 10805c0,349 141,687 387,933 247,247 584,388 933,388zm-5693 -12255l0 -1720 -3269 0c-582,0 -1150,241 -1555,644 -404,405 -628,1035 -628,1619l-17 6957c0,941 -376,1842 -1045,2504l-12011 12589c-5400,7686 296,17621 9348,15963 4551,-833 8084,-3589 8084,-8164l0 -15067c0,-235 94,-461 257,-624 163,-163 446,-257 680,-257l0 -2189 -924 0c-584,0 -1144,232 -1556,644 -413,412 -644,973 -644,1557l0 15619c0,3780 -2398,5945 -6200,6646 -3717,687 -6453,-641 -8260,-4144 -1827,-3541 -553,-6941 1382,-9063l12046 -12417c661,-662 1049,-1495 1049,-2429l-19 -8665 3282 -3z">
+   </path>
+  </symbol>
+  <g transform="scale(1)">
+   <use x="14000" xlink:href="#6_3" y="24500">
+   </use>
+  </g>
+ </g>
+</svg>

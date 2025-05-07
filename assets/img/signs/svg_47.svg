@@ -1,0 +1,18 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 45000 85000" width="60px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  1.32.1
+ </title>
+ <g fill="#FFD323" stroke="gray" stroke-width="800">
+  <rect height="80000" rx="4500" ry="4500" width="40000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <path d="M42500 63474l-40000 -40000 0 18975 38703 38703c801,-813 1297,-1927 1297,-3152l0 -14526zm0 -37951l-23023 -23023 -12477 0c-1750,0 -3275,1012 -4018,2480l39518 39518 0 -18975zm-18925 56977l-21075 -21075 0 16575c0,2475 2025,4500 4500,4500l16575 0z">
+  </path>
+ </g>
+</svg>

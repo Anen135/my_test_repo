@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.6
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="phone">
+   <path d="M41050 12282c633,-3035 -256,-6191 -2381,-8447 -2124,-2256 -5218,-3834 -8287,-3385l109 11765 1673 9c493,2 955,397 1198,826 244,429 213,964 -77,1364l-9003 12391 -8982 12500c-288,402 -786,597 -1270,502 -483,-94 -806,-488 -983,-947l-352 -921 -10308 5288c878,2015 2441,3528 4560,4514 2810,1305 6085,1162 8769,-393 16132,-7361 22414,-19964 25334,-35066zm-14532 -11796l2877 0 0 11728 -2877 0c-557,0 -1093,-224 -1487,-623 -395,-401 -617,-942 -617,-1507l0 -7467c0,-566 222,-1107 617,-1507 394,-399 930,-624 1487,-624zm-18578 32930l-6551 3381c-496,256 -871,699 -1040,1230 -169,530 -121,1108 136,1604l1319 2557 10290 -5311 -1321 -2558c-255,-496 -697,-867 -1229,-1037 -531,-170 -1108,-121 -1604,134z">
+   </path>
+  </symbol>
+  <g transform="scale(0.95)">
+   <use x="16750" xlink:href="#phone" y="24750">
+   </use>
+  </g>
+ </g>
+</svg>

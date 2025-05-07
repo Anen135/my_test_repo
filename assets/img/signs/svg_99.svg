@@ -1,0 +1,30 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.32
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="dangerous_cargo">
+   <path d="M6513 21538l-4171 0 0 -2504c-518,0 -1824,0 -2342,0l0 6466c518,0 1824,0 2342,0l0 -2627 4191 0c266,656 920,1128 1676,1128 756,0 1410,-472 1676,-1128l4253 0 0 2627c787,0 1575,0 2362,0 0,-2155 0,-4311 0,-6466 -787,0 -1575,0 -2362,0l0 2504 -4233 0c-265,-677 -940,-1170 -1696,-1170 -756,0 -1430,493 -1696,1170z">
+   </path>
+   <polygon points="662,18104 15812,18104 15812,17406 662,17406 ">
+   </polygon>
+   <path d="M662 16463l15151 0 0 -14409c0,-1151 -930,-2054 -2046,-2054l-11029 0c-1116,0 -2076,934 -2076,2054l0 14409z" fill="orange">
+   </path>
+  </symbol>
+  <g transform="scale(1.5)">
+   <use x="16750" xlink:href="#dangerous_cargo" y="12000">
+   </use>
+  </g>
+ </g>
+</svg>

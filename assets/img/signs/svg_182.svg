@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 140000 50000" width="220px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.30.1
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="45000" rx="4500" ry="4500" width="135000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="41000" rx="2500" ry="2500" width="131000" x="4500" y="4500">
+  </rect>
+  <symbol id="5_32_x arrow">
+   <polygon points="0,9250 15710,89 15710,5673 25000,5673 25000,12827 15710,12827 15710,18411 ">
+   </polygon>
+  </symbol>
+  <g transform="scale(1.2, 1.2)">
+   <use fill="#FFF" x="55000" xlink:href="#truck_side" y="8500">
+   </use>
+  </g>
+  <g transform="scale(1.4, 1.4) rotate(90, 67500, 22500)">
+   <use fill="#FFF" x="52500" xlink:href="#5_32_x arrow" y="58000">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+</svg>

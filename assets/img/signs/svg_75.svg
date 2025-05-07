@@ -1,0 +1,30 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.11
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <symbol id="digit 7 fill #000">
+  <path d="M691 2731l348 -2031 7270 0 0 1812c-1926,2849 -3260,6113 -4007,9788l-2332 0c616,-3097 2028,-6286 4234,-9569l-5513 0z" fill="#000">
+  </path>
+ </symbol>
+ <symbol id="char т fill #000">
+  <polygon fill="#000" points="3692,12303 3692,6808 1716,6808 1716,5453 7284,5453 7284,6808 5301,6808 5301,12303">
+  </polygon>
+ </symbol>
+ <g transform="scale(2.1) translate(10500, 11500)">
+  <use x="1" xlink:href="#digit 7 fill #000" y="0">
+  </use>
+  <use x="8001" xlink:href="#char т fill #000" y="0">
+  </use>
+ </g>
+</svg>

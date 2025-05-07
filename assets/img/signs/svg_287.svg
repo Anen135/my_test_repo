@@ -1,0 +1,30 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.9
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="мин">
+   <path d="M1393 5521l1571 0 1662 3097 1679 -3097 1623 0 660 6885 -1575 0 -526 -4360 -1854 3449 -1851 -3449 -526 4360 -1582 0 719 -6885zm9284 6885l0 -6892 1577 0 0 4305 2849 -4305 1644 0 0 6892 -1644 0 0 -4298 -2849 4298 -1577 0zm8484 0l0 -6892 1577 0 0 2622 2511 0 0 -2622 1577 0 0 6892 -1577 0 0 -2951 -2511 0 0 2951 -1577 0z">
+   </path>
+  </symbol>
+  <g transform="scale(1.22)">
+   <use x="7500" xlink:href="#digit 3 fill #000" y="10000">
+   </use>
+   <use x="17000" xlink:href="#digit 0 fill #000" y="10000">
+   </use>
+   <use x="27500" xlink:href="#мин" y="10000">
+   </use>
+  </g>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

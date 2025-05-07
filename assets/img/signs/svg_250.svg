@@ -1,0 +1,22 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.4.7
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <g transform="scale(1)">
+   <use x="16500" xlink:href="#bicycle fill #000" y="8000">
+   </use>
+  </g>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

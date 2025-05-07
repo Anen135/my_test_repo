@@ -1,0 +1,26 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.22
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <symbol id="truck_backside">
+   <path d="M18972 22400l0 4877c0,422 -301,723 -723,723l-1685 0c-422,0 -723,-301 -723,-723l0 -4877 -2800 0c-662,1023 -1807,1686 -3071,1686 -1325,0 -2469,-662 -3101,-1686l-2740 0 0 4847c0,422 -301,723 -723,723l-1686 0c-421,0 -722,-301 -722,-723l0 -4847 -933 0 0 -20594c0,-1023 842,-1806 1926,-1806l15958 0c1083,0 1986,783 1986,1807l-29 20593 -934 0z">
+   </path>
+  </symbol>
+  <use x="16000" xlink:href="#truck_backside" y="23000">
+  </use>
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <use x="40000" xlink:href="#auto_backside" y="33000">
+  </use>
+ </g>
+</svg>

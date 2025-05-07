@@ -1,0 +1,52 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.5.4
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="char dot">
+   <path d="M4498 10574c273,0 505,97 698,290 193,193 289,424 289,700 0,269 -96,498 -289,691 -193,193 -425,289 -698,289 -274,0 -508,-96 -698,-289 -191,-193 -285,-422 -285,-691 0,-276 94,-507 285,-700 190,-193 424,-290 698,-290z">
+   </path>
+  </symbol>
+  <symbol id="char defice">
+   <polygon points="6787,6625 6787,8106 2213,8106 2213,6625 ">
+   </polygon>
+  </symbol>
+  <symbol id="digit 8 fill #000">
+   <path d="M2593 6199c-586,-399 -1009,-812 -1274,-1235 -262,-427 -394,-891 -394,-1395 0,-866 305,-1579 920,-2142 615,-564 1484,-848 2612,-848 1122,0 1994,284 2614,848 618,563 928,1276 928,2142 0,537 -143,1014 -426,1432 -286,421 -683,820 -1195,1198 653,259 1149,596 1489,1012 340,415 510,950 510,1597 0,1068 -348,1940 -1042,2609 -696,669 -1618,1004 -2768,1004 -1073,0 -1966,-278 -2679,-831 -841,-653 -1265,-1549 -1265,-2688 0,-625 159,-1162 475,-1607 316,-446 815,-810 1495,-1096zm1745 -1041c928,-364 1476,-866 1646,-1503 0,-370 -135,-664 -405,-882 -267,-219 -628,-327 -1082,-327 -453,0 -812,106 -1079,316 -267,211 -399,488 -399,836 0,564 440,1085 1319,1560zm-46 2093c-1071,405 -1616,947 -1637,1627 0,497 178,896 534,1198 356,305 753,459 1192,464 443,5 847,-94 1222,-294 375,-200 605,-604 688,-1217 84,-612 -334,-1136 -1257,-1573l-742 -205z" fill="#000">
+   </path>
+  </symbol>
+  <g transform="scale(0.85) translate(0, 16000) ">
+   <use x="8000" xlink:href="#digit 8 fill #000" y="1">
+   </use>
+   <use x="14000" xlink:href="#char dot" y="1">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="25000" xlink:href="#digit 0 fill #000" y="5500">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="34500" xlink:href="#digit 0 fill #000" y="5500">
+   </use>
+   <use x="35000" xlink:href="#char defice" y="1">
+   </use>
+   <use x="44000" xlink:href="#digit 1 fill #000" y="1">
+   </use>
+   <use x="52000" xlink:href="#digit 7 fill #000" y="1">
+   </use>
+   <use x="58000" xlink:href="#char dot" y="1">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="81000" xlink:href="#digit 3 fill #000" y="5500">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="90000" xlink:href="#digit 0 fill #000" y="5500">
+   </use>
+  </g>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

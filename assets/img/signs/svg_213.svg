@@ -1,0 +1,44 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.3б
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="70000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="66000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <symbol id="gas station blue">
+   <path d="M12571 24937l0 -23633c0,-328 130,-644 362,-877 233,-233 549,-364 878,-364l9947 0c330,0 645,131 878,364 233,233 364,549 364,878l0 23631 -12429 1z">
+   </path>
+   <rect fill="#FFF" height="7640" rx="944" ry="386" width="9013" x="14378" y="2294">
+   </rect>
+  </symbol>
+  <g transform="scale(0.99)">
+   <g fill="#FFF">
+    <rect height="50000" width="50000" x="12500" y="12500">
+    </rect>
+   </g>
+   <use x="33000" xlink:href="#gas station blue" y="30000">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="CNG">
+   <path d="M5339 3557c-344,-898 -914,-1330 -1711,-1294 -506,34 -899,319 -1176,850 -278,532 -419,1172 -419,1922 0,750 150,1391 446,1921 295,532 679,799 1149,799 584,0 1044,-267 1379,-799 81,-126 154,-261 217,-405l1362 533c-133,263 -297,514 -492,750 -636,777 -1406,1166 -2307,1166 -1020,0 -1811,-389 -2370,-1166 -561,-779 -840,-1718 -840,-2821 0,-1105 279,-2046 840,-2824 559,-779 1350,-1168 2370,-1168 901,0 1671,389 2307,1168 177,214 328,441 454,681l-1209 687zm8507 -2329l0 7561 -1588 0 -2842 -5295 0 5295 -1467 0 0 -7561 1688 0 2843 5180 0 -5180 1366 0zm6162 6932c-425,512 -982,766 -1669,766 -946,0 -1689,-386 -2226,-1159 -535,-773 -804,-1705 -804,-2799 0,-1092 269,-2026 804,-2797 537,-774 1280,-1159 2226,-1159 1127,-107 2120,508 2979,1842l-1220 607c-425,-820 -1002,-1231 -1726,-1231 -624,70 -1057,350 -1300,838 -243,487 -364,1114 -364,1882 0,768 121,1404 364,1912 243,507 658,761 1247,761 545,0 975,-151 1287,-452 314,-301 467,-644 460,-1028l-1341 0 0 -1171 2698 0 0 3812 -1204 0 -211 -624z">
+   </path>
+  </symbol>
+  <g transform="scale(0.99)">
+   <g transform="scale(1.2)">
+    <use x="12000" xlink:href="#CNG" y="12000">
+    </use>
+   </g>
+   <use x="26000" xlink:href="#gas station" y="34000">
+   </use>
+  </g>
+ </g>
+</svg>

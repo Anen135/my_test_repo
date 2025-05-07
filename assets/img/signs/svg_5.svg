@@ -1,0 +1,26 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 40000 75000" width="70px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  1.4.1
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="70000" rx="4500" ry="4500" width="35000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <g transform="scale(0.76) translate(2000,2000)">
+   <path d="M46000 51766l-42000 21000 0 9843 42000 -21000 0 -9843zm0 -39375l-42000 21000 0 9843 42000 -21000 0 -9843zm0 19687l-42000 21000 0 9844 42000 -21000 0 -9844z">
+   </path>
+  </g>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="border 700x350">
+   <path d="M3500 68000l0 -61000c0,-1925 1575,-3500 3500,-3500l26000 0c1925,0 3500,1575 3500,3500l0 61000c0,1925 -1575,3500 -3500,3500l-26000 0c-1925,0 -3500,-1575 -3500,-3500zm1000 0l0 -61000c0,-1375 1125,-2500 2500,-2500l26000 0c1375,0 2500,1125 2500,2500l0 61000c0,1375 -1125,2500 -2500,2500l-26000 0c-1375,0 -2500,-1125 -2500,-2500z">
+   </path>
+  </symbol>
+  <use x="0" xlink:href="#border 700x350" y="0">
+  </use>
+ </g>
+</svg>

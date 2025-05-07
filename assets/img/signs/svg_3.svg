@@ -1,0 +1,16 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 113200 74800" width="160px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  1.3.1
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <polygon points="6139,54988 36602,37400 6139,19812 2479,6153 16138,2494 56600,25854 97061,2494 110720,6153 107060,19812 76597,37400 107060,54987 110720,68646 97061,72306 56600,48945 16138,72306 2479,68646 ">
+  </polygon>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M6998 55655l-3294 12293 12293 3294 40603 -23442 40603 23442 12293 -3294 -3294 -12293 -31604 -18247 31604 -18246 3294 -12293 -12293 -3294 -40603 23442 -40603 -23442 -12293 3294 3294 12293 31604 18247 -31604 18246zm4294 3295l-1464 5462 5462 1464 41310 -23850 41310 23850 5462 -1464 -1464 -5462 -37310 -21542 37311 -21541 1463 -5462 -5462 -1464 -41310 23850 -41310 -23850 -5462 1464 1463 5462 37311 21542 -37310 21541z">
+  </path>
+ </g>
+</svg>

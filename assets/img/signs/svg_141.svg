@@ -1,0 +1,24 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 95000 95000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.8.6
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="90000" rx="4500" ry="4500" width="90000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="86000" rx="2500" ry="2500" width="86000" x="4500" y="4500">
+  </rect>
+  <symbol id="5_8_6">
+   <path d="M33288 43059l2500 0 0 7494 -2500 0 0 -7494zm0 10349l2500 0 0 7496 -2500 0 0 -7496zm-13559 18310l0 -32916c43,-1884 938,-4754 1962,-5904l7450 -9762 4425 4421 5346 -19097 -19109 5342 4492 4490 -9023 11822c-1347,1837 -2794,4976 -2709,9662l0 31942 7166 0zm29574 0l0 -46548 -5971 0 9555 -16710 9554 16710 -5972 0 0 46548 -7166 0zm-16015 -8317l2500 0 0 8251 -2500 0 0 -8251z" fill="#FFF">
+   </path>
+  </symbol>
+  <g fill="#FFF" transform="scale(1.280)">
+   <use x="1" xlink:href="#5_8_6" y="1">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+</svg>

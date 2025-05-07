@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.8
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="water">
+   <path d="M8634 34675l0 -4941c0,-1955 765,-3830 2127,-5211 1362,-1382 3208,-2159 5135,-2159l4449 0c3410,3236 7580,3236 10991,0l11093 0 0 3071c0,522 204,1022 567,1390 363,369 855,575 1370,575l634 0 0 -17350 -634 0c-515,0 -1007,207 -1370,575 -363,368 -567,870 -567,1390l0 3073 -9084 0c-514,0 -1007,-208 -1370,-577 -363,-368 -566,-868 -566,-1388l0 -1108c0,-520 -205,-1021 -568,-1390 -363,-368 -856,-575 -1369,-575l-819 0 0 -4851 4224 0c909,33 1763,-439 2226,-1231 463,-795 463,-1780 0,-2573 -463,-794 -1317,-1266 -2226,-1233l-14693 -1c-1333,53 -2388,1165 -2388,2519 0,1355 1055,2469 2388,2519l4959 0 0 4851 -1186 0c-515,0 -1007,207 -1370,575 -363,368 -567,870 -567,1390l0 921c0,1086 -868,1965 -1934,1965l-2276 0c-3852,0 -7546,1553 -10270,4317 -2724,2765 -4254,6513 -4254,10423l0 5034 7348 0zm-8634 17165l2572 -16045 1103 0 -2389 16045 -1286 0zm7898 -16045l2572 16045 -1286 0 -2387 -16045 1101 0zm-2098 0l0 16045 -1286 0 0 -16045 1286 0z">
+   </path>
+  </symbol>
+  <g transform="scale(0.91)">
+   <use x="24000" xlink:href="#water" y="24750">
+   </use>
+  </g>
+ </g>
+</svg>

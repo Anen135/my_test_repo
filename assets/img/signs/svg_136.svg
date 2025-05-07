@@ -1,0 +1,30 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 95000 95000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.8.2в
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="90000" rx="4500" ry="4500" width="90000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="86000" rx="2500" ry="2500" width="86000" x="4500" y="4500">
+  </rect>
+  <symbol id="5_8_2в">
+   <path d="M24762 71107l0 -16473c1171,-3043 3067,-3185 4926,-3185l0 -1 23047 0c8351,0 15121,-6769 15121,-15121 0,-8351 -6770,-15121 -15121,-15121l-3072 0 0 -5954 -16660 9527 16660 9526 0 -5954 3072 0 0 0c4405,0 7976,3571 7976,7976 0,4406 -3571,7977 -7976,7977l-23047 0c-1725,0 -3567,351 -4926,1562l0 -21169 5954 0 -9526 -16661 -9527 16661 5954 0 0 46410 7145 0z" fill="#FFF">
+   </path>
+  </symbol>
+  <g fill="#FFF" transform="scale(1.28)">
+   <use x="9000" xlink:href="#dividing_strip_v4" y="35000">
+   </use>
+   <use x="45000" xlink:href="#dividing_strip_v2" y="54000">
+   </use>
+   <use x="-1000" xlink:href="#5_8_2в" y="1">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+ </g>
+</svg>

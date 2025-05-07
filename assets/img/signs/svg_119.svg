@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  4.7
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <circle cx="37500" cy="37500" r="33000">
+  </circle>
+  <symbol id="digit 4 fill #FFF">
+   <path d="M5427 12305l0 -2161 -5005 0 0 -1943 5143 -7506 1871 0 0 7498 1142 0 -363 1951 -779 0 0 2161 -2009 0zm-163 -4112l0 -4300 -2753 4300 2753 0z" fill="#FFF">
+   </path>
+  </symbol>
+  <symbol id="digit 0 fill #FFF">
+   <path d="M4504 427c1241,0 2225,523 2951,1564 727,1042 1098,2548 1114,4519 -83,2089 -470,3620 -1163,4598 -694,976 -1661,1465 -2902,1465 -1252,0 -2230,-489 -2932,-1471 -699,-978 -1080,-2517 -1141,-4617 33,-1971 409,-3471 1127,-4505 716,-1033 1700,-1553 2946,-1553zm50 2034c-600,-22 -1056,301 -1365,967 -310,666 -467,1683 -467,3049 0,1365 163,2373 486,3028 323,652 774,978 1346,978 619,0 1078,-326 1376,-978 296,-655 445,-1663 445,-3028 0,-1366 -163,-2377 -486,-3032 -324,-655 -769,-984 -1335,-984z" fill="#FFF">
+   </path>
+  </symbol>
+  <g transform="scale(2.1) translate(8500, 11500)">
+   <use x="1" xlink:href="#digit 4 fill #FFF" y="0">
+   </use>
+   <use x="9401" xlink:href="#digit 0 fill #FFF" y="0">
+   </use>
+  </g>
+ </g>
+</svg>

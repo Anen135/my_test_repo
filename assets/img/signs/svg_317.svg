@@ -1,0 +1,32 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.12 временный
+ </title>
+ <g fill="#FFD323" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="track_axis">
+   <path d="M13952 5809l-10333 0 0 -3714c0,-1143 -809,-2095 -1810,-2095l1 0c-1000,0 -1810,952 -1810,2095l0 10809c0,1143 810,2096 1809,2096l1 0c1000,0 1809,-953 1809,-2095l0 -4001 10381 0c619,1524 2143,2620 3905,2620 1762,0 3285,-1096 3904,-2619l10524 -1 0 4000c0,1143 809,2096 1810,2096l47 0c1000,0 1810,-953 1810,-2095l0 -10810c0,-1143 -810,-2095 -1810,-2095l-47 0c-1000,0 -1810,952 -1810,2095l0 3714 -10476 0c-619,-1571 -2191,-2714 -3952,-2714 -1762,0 -3334,1143 -3953,2714z">
+   </path>
+  </symbol>
+  <g transform="scale(1.5)">
+   <use x="13500" xlink:href="#digit 5 fill #000" y="13000">
+   </use>
+   <use x="21250" xlink:href="#char т fill #000" y="13000">
+   </use>
+   <use x="28000" xlink:href="#char с" y="13000">
+   </use>
+  </g>
+  <use x="19500" xlink:href="#track_axis" y="40000">
+  </use>
+ </g>
+</svg>

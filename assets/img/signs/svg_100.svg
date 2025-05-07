@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.33
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <g transform="scale(0.85)">
+   <use x="26000" xlink:href="#auto_front" y="38000">
+   </use>
+   <g transform="translate(7500, 5500)">
+    <polygon fill="orange" points="29771,32252 42718,32091 52327,21143 43961,25202 48144,13150 40979,18824 34932,12114 32613,18699 25862,16753 29382,25492 22673,23545">
+    </polygon>
+    <polygon fill="red" points="34394,26486 32613,22883 34725,23794 34725,20398 36630,22800 39343,20087 39343,24042 41228,22510 38867,27314 39364,29841 37852,28329 36962,29758 36423,28598 35160,29861 ">
+    </polygon>
+   </g>
+  </g>
+ </g>
+</svg>

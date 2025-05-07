@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.12
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="policeman">
+   <path d="M36168 42782l-15992 -51 0 4769 20497 0c-3,-9821 -8,-19641 -12,-29462 -69,-627 -392,-1103 -1044,-1198l-2298 -27 -13846 23228 12694 -5 1 2746zm-35574 -36182c404,-1813 2824,-1788 3000,0l0 4941 -3000 0c0,-1647 0,-3294 0,-4941zm625 465c242,-1430 1695,-1410 1801,0l0 3897 -1801 0c0,-1299 0,-2598 0,-3897zm-625 5419l3000 0 0 4502 -3000 0 0 -4502zm8 5275l3000 0 0 5124 -3000 0 0 -5124zm668 736l1712 0 0 3766 -1712 0 0 -3766zm22886 -7659l10491 -2226c89,372 136,760 136,1159 0,2836 -2387,5136 -5330,5136 -2530,0 -4751,-1791 -5297,-4069zm-3564 150l2537 -3575 12929 40 -15466 3535zm15505 -6550l-15387 -4436 2450 4932 4 1838 12888 171 45 -2505zm-2062 12238c-3476,1 -6952,2 -10428,3 -1102,44 -1900,443 -2584,1273l-8749 12829 -8627 -3428 -40 -3724 -2999 8c-15,1757 -29,3514 -44,5271 -640,1030 -875,1984 247,3432 4519,1900 9039,3800 13558,5700 403,131 787,161 1228,-329l4502 -5248 42 7386 13894 -23173z">
+   </path>
+  </symbol>
+  <g transform="scale(1)">
+   <use x="16800" xlink:href="#policeman" y="22000">
+   </use>
+  </g>
+ </g>
+</svg>

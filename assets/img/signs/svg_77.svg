@@ -1,0 +1,50 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.13
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="3_13">
+   <polygon points="0,0 13500,0 6750,7500 ">
+   </polygon>
+  </symbol>
+  <symbol id="digit 3 fill #000">
+   <path d="M984 11893l-139 -1951c1136,375 2065,572 2794,585 730,14 1299,-140 1708,-464 412,-326 630,-776 658,-1354 25,-577 -213,-1033 -713,-1371 -503,-337 -1219,-420 -2147,-248l0 -1675c881,-174 1450,-365 1713,-577 262,-216 445,-512 550,-893 105,-379 55,-735 -149,-1067 -205,-334 -501,-514 -888,-539 -384,-27 -751,6 -1099,100 -349,94 -860,345 -1534,749l-696 -1562c619,-411 1229,-696 1832,-859 602,-160 1307,-218 2116,-169 810,47 1490,376 2037,979 547,605 724,1332 528,2183 -199,848 -829,1575 -1890,2172 818,243 1431,577 1832,1000 403,426 622,1092 655,2004 36,912 -271,1696 -923,2351 -650,658 -1586,1028 -2813,1111 -1225,83 -2369,-85 -3432,-505z" fill="#000">
+   </path>
+  </symbol>
+  <symbol "="" id="char м fill #000">
+   <polygon fill="#000" points="1290,5449 2847,5449 4498,8520 6160,5449 7770,5449 8424,12275 6862,12275 6340,7952 4502,11373 2667,7952 2144,12275 576,12275">
+   </polygon>
+  </symbol>
+  <symbol id="char_comma">
+   <path d="M4500 10774c440,0 797,357 797,797 0,390 -664,1079 -871,1410l-532 0 504 -666c-422,-26 -695,-304 -695,-744 0,-440 357,-797 797,-797z">
+   </path>
+  </symbol>
+  <use x="30750" xlink:href="#3_13" y="13000">
+  </use>
+  <g transform="rotate(180, 37500, 37500)">
+   <use x="30750" xlink:href="#3_13" y="13000">
+   </use>
+  </g>
+  <g transform="scale(1.5)">
+   <use x="15000" xlink:href="#digit 3 fill #000" y="14000">
+   </use>
+   <use transform="scale(1.3)" x="15000" xlink:href="#char_comma" y="8000">
+   </use>
+   <use x="27000" xlink:href="#digit 5 fill #000" y="14000">
+   </use>
+   <use height="19000" x="20500" xlink:href="#char м fill #000" y="23000">
+   </use>
+  </g>
+ </g>
+</svg>

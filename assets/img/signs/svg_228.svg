@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.18
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="WC">
+   <path d="M5169 14950l3838 18092 4269 0 2605 -11511 2541 11511 4131 0 4015 -18092 -3588 0 -2639 12166 -2704 -12166 -3425 0 -2751 12166 -2480 -12166 -3812 0zm34678 5572c-824,-2148 -2188,-3199 -4093,-3097 -1212,65 -2152,764 -2816,2036 -664,1272 -1001,2803 -1001,4597 0,1794 360,3330 1066,4598 707,1271 1626,1910 2751,1910 1398,0 2496,-640 3299,-1910 192,-303 367,-626 518,-971l3260 1277c-319,629 -713,1228 -1177,1794 -1523,1857 -3364,2790 -5520,2790 -2441,0 -4335,-932 -5672,-2790 -1340,-1863 -2009,-4110 -2009,-6749 0,-2644 670,-4895 2009,-6759 1338,-1861 3231,-2794 5672,-2794 2156,0 3997,933 5520,2794 421,514 785,1057 1087,1631l-2894 1643z">
+   </path>
+  </symbol>
+  <g transform="scale(1)">
+   <use x="13500" xlink:href="#WC" y="23000">
+   </use>
+  </g>
+ </g>
+</svg>

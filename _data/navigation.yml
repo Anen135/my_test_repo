@@ -1,0 +1,6 @@
+- title: "Главная"
+  url: "/"
+- title: "Дорожные знаки"
+  url: "/signs"
+- title: "Дорожная разметка"
+  url: "/marks"

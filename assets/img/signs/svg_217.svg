@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.7
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="food">
+   <path d="M7596 46603l7 -30032 957 0c1165,0 2103,-968 2103,-2163l0 -13897 -1994 0 0 8503c11,385 -157,753 -474,954 -321,200 -725,202 -1045,0 -321,-201 -486,-571 -476,-954l0 -8503 -2147 0 7 8503c-39,621 -550,1104 -1158,1104 -606,0 -1109,-483 -1150,-1104l0 -8662 -1993 0 0 14056c0,574 222,1125 618,1530 395,405 932,633 1492,633l1111 0 0 29875c-28,758 342,1478 967,1881 625,402 1419,431 2073,77 652,-353 1075,-1041 1102,-1801zm19171 0l0 -41998c0,-2375 -1239,-4255 -3553,-4255 -2313,0 -4215,1882 -4295,4255l0 21235c-57,1477 1106,2542 2397,2542l1158 0 -2 18064c81,1126 977,2010 2078,2051 1101,40 2056,-776 2217,-1894z">
+   </path>
+  </symbol>
+  <g transform="scale(0.95)">
+   <use x="25000" xlink:href="#food" y="24750">
+   </use>
+  </g>
+ </g>
+</svg>

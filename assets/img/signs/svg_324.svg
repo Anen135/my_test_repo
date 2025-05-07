@@ -1,0 +1,22 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.19 временный
+ </title>
+ <g fill="#FFD323" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M71500 37500c0,-18778 -15222,-34000 -34000,-34000 -18778,0 -34000,15222 -34000,34000 0,18778 15222,34000 34000,34000 18778,0 34000,-15222 34000,-34000zm-51759 -21648l39407 39407c3969,-4833 6352,-11017 6352,-17759 0,-15464 -12536,-28000 -28000,-28000 -6742,0 -12926,2383 -17759,6352zm35518 43296l-39407 -39407c-3969,4833 -6352,11017 -6352,17759 0,15464 12536,28000 28000,28000 6742,0 12926,-2383 17759,-6352z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <g transform="scale(1)">
+   <use x="0" xlink:href="#3_19" y="0">
+   </use>
+  </g>
+ </g>
+</svg>

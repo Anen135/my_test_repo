@@ -1,0 +1,20 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  2.6 временный
+ </title>
+ <g fill="#FFD323" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm8652 60635l0 -10079 6175 0 -9549 -15792 -9548 15792 6174 0 0 11378c-629,43 -1264,66 -1904,66 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000 15464,0 28000,12536 28000,28000 0,12444 -8119,22990 -19348,26635z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <polygon points="27464,14377 27464,34499 21877,34499 31050,50021 40222,34499 34636,34499 34636,14377">
+  </polygon>
+ </g>
+</svg>

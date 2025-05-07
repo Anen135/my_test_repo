@@ -1,0 +1,30 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.20
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <symbol id="auto_backside">
+   <path d="M15600 37c746,0 1790,477 2059,1163l1969 5340c537,0 1372,746 1372,1372l0 4266c0,686 -865,1521 -1552,1521l-17897 0c-656,0 -1551,-805 -1551,-1521l0 -4266c0,-656 537,-1372 1372,-1372l1969 -5340c268,-716 1283,-1163 2058,-1163l10201 0zm0 1283c508,0 836,268 955,537l1700 4743 -15511 0 1701 -4743c119,-328 447,-537 954,-537l10201 0zm3759 13155l-3341 0 0 2505c0,537 835,1283 1671,1283 835,0 1670,-597 1670,-1283l0 -2505zm-17718 0l3341 0 0 2505c0,537 -836,1283 -1671,1283 -835,0 -1670,-597 -1670,-1283l0 -2505z">
+   </path>
+  </symbol>
+  <g transform="scale(1)">
+   <use x="13500" xlink:href="#auto_backside" y="28500">
+   </use>
+  </g>
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <g fill="#000" transform="scale(1)">
+   <use x="40000" xlink:href="#auto_backside" y="28500">
+   </use>
+  </g>
+ </g>
+</svg>

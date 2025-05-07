@@ -1,0 +1,44 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 95000 95000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.11.2
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="90000" rx="4500" ry="4500" width="90000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="86000" rx="2500" ry="2500" width="86000" x="4500" y="4500">
+  </rect>
+  <symbol id="digit 1 fill #FFF">
+   <polygon fill="#FFF" points="6434,12309 4201,12309 4201,3460 2753,4472 1957,3452 4524,691 6434,691 ">
+   </polygon>
+  </symbol>
+  <symbol id="digit 5 fill #FFF">
+   <path d="M1113 12015l-348 -1986c1291,297 2266,444 2924,439 1220,-11 2503,-912 2473,-2228 -27,-1197 -856,-1863 -2003,-1897 -556,-17 -1122,200 -1700,650l-1459 -650 0 -5648 6720 0 -397 1928 -4394 0 0 2303c621,-269 1467,-383 2238,-333 1834,119 3073,1663 3068,3477 -3,1045 -315,1989 -940,2831 -622,839 -1522,1328 -2694,1464 -1175,136 -2338,19 -3488,-350z" fill="#FFF">
+   </path>
+  </symbol>
+  <symbol "="" id="char м fill #FFF">
+   <polygon fill="#FFF" points="1290,5449 2847,5449 4498,8520 6160,5449 7770,5449 8424,12275 6862,12275 6340,7952 4502,11373 2667,7952 2144,12275 576,12275">
+   </polygon>
+  </symbol>
+  <symbol id="5_11_2">
+   <path d="M42003 7212c11000,0 17600,9001 17600,20000l0 44287 -7500 0 0 -22587c0,-4875 -3225,-9300 -10100,-9300 -6875,0 -10121,4426 -10100,9300l5 1289 5748 0 -9500 16688 -9500 -16688 5747 0 0 -1289c0,-9000 6600,-16800 17600,-16800 3976,0 7377,1020 10100,2747l0 -7647c0,-6875 -3225,-12500 -10100,-12500 -3542,0 -6097,1904 -8795,3983l-2288 1763 3500 4559 -19023 2625 7454 -17697 3499 4559 2292 -1759c3837,-2945 8415,-5533 13361,-5533z">
+   </path>
+  </symbol>
+  <g fill="#FFF" transform="scale(1.280)">
+   <use height="95000" x="-2000" xlink:href="#5_11_2" y="0">
+   </use>
+  </g>
+  <g transform="scale(0.7) translate(10000, 55000)">
+   <use x="5000" xlink:href="#digit 1 fill #FFF" y="1">
+   </use>
+   <use x="14000" xlink:href="#digit 5 fill #FFF" y="1">
+   </use>
+   <use x="24000" xlink:href="#char м fill #FFF" y="1">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+</svg>

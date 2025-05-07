@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.19
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M71500 37500c0,-18778 -15222,-34000 -34000,-34000 -18778,0 -34000,15222 -34000,34000 0,18778 15222,34000 34000,34000 18778,0 34000,-15222 34000,-34000zm-51759 -21648l39407 39407c3969,-4833 6352,-11017 6352,-17759 0,-15464 -12536,-28000 -28000,-28000 -6742,0 -12926,2383 -17759,6352zm35518 43296l-39407 -39407c-3969,4833 -6352,11017 -6352,17759 0,15464 12536,28000 28000,28000 6742,0 12926,-2383 17759,-6352z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="3_19">
+   <g>
+    <path d="M51808 29293l0 18061 -6803 -6803 0 -11258c0,-9977 -12055,-11346 -15371,-4113l-5082 -5083c7219,-10891 27256,-7828 27256,9196zm0 26970l0 2580 -6803 0 0 -9383 6803 6803zm-23010 -23010l0 10195 5337 0 -8738 15395 -8739 -15395 5337 0 0 -14155c0,-931 60,-1821 175,-2668l6628 6628z">
+    </path>
+   </g>
+  </symbol>
+  <g transform="scale(1)">
+   <use x="0" xlink:href="#3_19" y="0">
+   </use>
+  </g>
+ </g>
+</svg>

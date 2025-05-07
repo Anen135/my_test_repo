@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 95000 95000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.8.2
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="90000" rx="4500" ry="4500" width="90000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="86000" rx="2500" ry="2500" width="86000" x="4500" y="4500">
+  </rect>
+  <symbol id="dividing_strip_v4">
+   <path d="M0 28926l2500 0 0 7863 -2500 0 0 -7863zm0 -28915l2500 0 0 7144 -2500 0 0 -7144zm0 19390l2500 0 0 7144 -2500 0 0 -7144zm0 -9865l2500 0 0 7144 -2500 0 0 -7144z" fill="#FFF">
+   </path>
+  </symbol>
+  <g fill="#FFF" transform="scale(1.280)">
+   <use x="15500" xlink:href="#dividing_strip_v4" y="35000">
+   </use>
+   <use x="57000" xlink:href="#dividing_strip_v4" y="35000">
+   </use>
+   <use x="28000" xlink:href="#arrow up direction" y="8500">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+</svg>

@@ -1,0 +1,44 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.5.6
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <g transform="scale(0.5)">
+   <use x="60000" xlink:href="#molot" y="12000">
+   </use>
+  </g>
+  <g transform="scale(0.85) translate(0, 25000) ">
+   <use x="8000" xlink:href="#digit 8 fill #000" y="1">
+   </use>
+   <use x="14000" xlink:href="#char dot" y="1">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="25000" xlink:href="#digit 0 fill #000" y="5500">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="34500" xlink:href="#digit 0 fill #000" y="5500">
+   </use>
+   <use x="35000" xlink:href="#char defice" y="1">
+   </use>
+   <use x="44000" xlink:href="#digit 1 fill #000" y="1">
+   </use>
+   <use x="52000" xlink:href="#digit 7 fill #000" y="1">
+   </use>
+   <use x="58000" xlink:href="#char dot" y="1">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="81000" xlink:href="#digit 3 fill #000" y="5500">
+   </use>
+   <use transform="scale(0.8, 0.7)" x="90000" xlink:href="#digit 0 fill #000" y="5500">
+   </use>
+  </g>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

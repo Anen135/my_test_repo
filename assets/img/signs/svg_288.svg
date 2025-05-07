@@ -1,0 +1,30 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.10
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="7_10">
+   <polygon points="17325,2024 17325,14765 14341,14765 14341,2024 14311,2024 0,10341 21,8028 13775,35 52725,35 66479,8028 66500,10341 52189,2024 52189,14765 49205,14765 49205,2024 ">
+   </polygon>
+  </symbol>
+  <g transform="scale(1)">
+   <g transform="scale(0.75)">
+    <use x="30000" xlink:href="#auto_side" y="8500">
+    </use>
+   </g>
+   <use x="4500" xlink:href="#7_10" y="21500">
+   </use>
+  </g>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

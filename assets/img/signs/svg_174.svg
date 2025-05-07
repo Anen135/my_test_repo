@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 140000 50000" width="220px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.23a
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="45000" rx="4500" ry="4500" width="135000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <use width="135000" x="2500" xlink:href="#locality" y="0">
+  </use>
+  <use width="135000" x="2500" xlink:href="#border 450x1350" y="2500">
+  </use>
+  <symbol id="5.23a red" viewbox="0 0 105000 35000">
+   <polygon points="80484,2000 9751,33000 24516,33000 95249,2000">
+   </polygon>
+  </symbol>
+  <g fill="red">
+   <use width="138000" x="2500" xlink:href="#5.23a red" y="0">
+   </use>
+  </g>
+ </g>
+</svg>

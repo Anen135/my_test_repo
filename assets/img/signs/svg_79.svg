@@ -1,0 +1,50 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.15
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="digit 1 fill #000">
+   <polygon fill="#000" points="6434,12309 4201,12309 4201,3460 2753,4472 1957,3452 4524,691 6434,691 ">
+   </polygon>
+  </symbol>
+  <symbol id="digit 0 fill #000">
+   <path d="M4504 427c1241,0 2225,523 2951,1564 727,1042 1098,2548 1114,4519 -83,2089 -470,3620 -1163,4598 -694,976 -1661,1465 -2902,1465 -1252,0 -2230,-489 -2932,-1471 -699,-978 -1080,-2517 -1141,-4617 33,-1971 409,-3471 1127,-4505 716,-1033 1700,-1553 2946,-1553zm50 2034c-600,-22 -1056,301 -1365,967 -310,666 -467,1683 -467,3049 0,1365 163,2373 486,3028 323,652 774,978 1346,978 619,0 1078,-326 1376,-978 296,-655 445,-1663 445,-3028 0,-1366 -163,-2377 -486,-3032 -324,-655 -769,-984 -1335,-984z" fill="#000">
+   </path>
+  </symbol>
+  <g transform="scale(0.85)">
+   <use x="20000" xlink:href="#truck_side" y="22000">
+   </use>
+  </g>
+  <g transform="rotate(90, 37500, 37500)">
+   <use x="45000" xlink:href="#3_13" y="50000">
+   </use>
+  </g>
+  <g transform="rotate(-90, 37500, 37500)">
+   <use x="16500" xlink:href="#3_13" y="50000">
+   </use>
+  </g>
+  <g transform="scale(0.88)">
+   <use x="33000" xlink:href="#digit 1 fill #000" y="48000">
+   </use>
+  </g>
+  <g transform="scale(0.88)">
+   <use x="42000" xlink:href="#digit 0 fill #000" y="48000">
+   </use>
+  </g>
+  <g transform="scale(1)">
+   <use x="32500" xlink:href="#char м fill #000" y="50000">
+   </use>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.5.2
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="molot">
+   <polygon points="23472,1154 20578,4282 22677,6083 15043,13914 7231,6201 9297,4359 6346,1289 2066,4666 0,11266 1771,12340 4870,8810 12647,16372 2686,26591 5089,28846 15088,18745 25235,28610 27596,26308 17484,16324 25086,8645 28249,12113 30000,11003 27813,4445 ">
+   </polygon>
+  </symbol>
+  <use x="22500" xlink:href="#molot" y="5000">
+  </use>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

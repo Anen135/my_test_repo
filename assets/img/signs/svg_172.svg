@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 140000 50000" width="220px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.22a
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="45000" rx="4500" ry="4500" width="135000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="locality" viewbox="0 0 105000 35000">
+   <polygon points="8105,30012 96895,30012 96895,10835 91353,8987 85280,10835 85280,23230 83607,23230 83585,19472 74990,15122 66551,19498 66547,23088 64616,23088 64616,21383 60566,17750 55280,17750 55280,16748 50194,16748 50194,17750 44761,17750 40864,21179 40864,23059 39091,23059 39091,20190 32271,4988 25605,19806 25605,22973 23693,22973 23693,19387 15977,16493 8105,19332 ">
+   </polygon>
+  </symbol>
+  <symbol id="border 450x1350">
+   <path d="M4500 1000l126000 0c1925,0 3500,1575 3500,3500l0 36000c0,1925 -1575,3500 -3500,3500l-126000 0c-1925,0 -3500,-1575 -3500,-3500l0 -36000c0,-1925 1575,-3500 3500,-3500zm0 1000l126000 0c1375,0 2500,1125 2500,2500l0 36000c0,1375 -1125,2500 -2500,2500l-126000 0c-1375,0 -2500,-1125 -2500,-2500l0 -36000c0,-1375 1125,-2500 2500,-2500z">
+   </path>
+  </symbol>
+  <use width="135000" x="2500" xlink:href="#locality" y="0">
+  </use>
+  <use width="135000" x="2500" xlink:href="#border 450x1350" y="2500">
+  </use>
+ </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.1.3
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="tables_small_arrow">
+   <polygon points="7858,17000 7858,8500 10466,8500 5250,0 34,8500 2643,8500 2643,17000 ">
+   </polygon>
+  </symbol>
+  <g transform="scale(1) translate(8000, 14000)">
+   <use x="1" xlink:href="#digit 1 fill #000" y="0">
+   </use>
+   <use x="8001" xlink:href="#digit 0 fill #000" y="0">
+   </use>
+   <use x="17601" xlink:href="#digit 0 fill #000" y="0">
+   </use>
+   <use x="27101" xlink:href="#char м fill #000" y="0">
+   </use>
+  </g>
+  <g transform="rotate(90, 5250, 8500) translate(11500, -53000)">
+   <use x="1" xlink:href="#tables_small_arrow" y="1">
+   </use>
+  </g>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

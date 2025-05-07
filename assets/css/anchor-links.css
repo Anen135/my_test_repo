@@ -1,0 +1,28 @@
+.anchor-links ul,
+.anchor-links ol {
+  list-style: none;
+  padding: 0;
+}
+
+.anchor-links li {
+  margin-bottom: 8px;
+}
+
+#toc a {
+  display: none;
+}
+
+.anchor-links a {
+  display: block;
+  padding: 8px 12px;
+  background-color: #2a2a2a; /* тёмный фон */
+  color: #f0f0f0; /* светлый текст */
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+.anchor-links a:hover {
+  background-color: #444; /* чуть светлее на ховере */
+  color: #ffcc00; /* жёлтый акцент на ховере */
+}

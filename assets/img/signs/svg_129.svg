@@ -1,0 +1,24 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.6
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="70000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="66000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <use fill="#FFF" height="70000" x="0" xlink:href="#5_5" y="2500">
+  </use>
+ </g>
+ <g fill="red">
+  <symbol id="5.36 red" viewbox="0 0 95000 95000">
+   <path d="M90500 11330l-79170 79170 -4330 0c-1375,0 -2500,-1125 -2500,-2500l0 -4330 79170 -79170 4330 0c1375,0 2500,1125 2500,2500l0 4330z">
+   </path>
+  </symbol>
+  <use height="72500" x="0" xlink:href="#5.36 red" y="1250">
+  </use>
+ </g>
+</svg>

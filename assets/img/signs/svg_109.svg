@@ -1,0 +1,22 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  4.2.3
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <circle cx="37500" cy="37500" r="33000">
+  </circle>
+  <symbol id="4_2_3">
+   <polygon points="751,24840 5011,8580 8685,12254 20348,591 25000,5244 36663,16906 32989,20580 49249,24840 44989,8580 41315,12254 29653,591 25000,5244 13338,16906 17011,20580 ">
+   </polygon>
+  </symbol>
+  <g fill="#FFF" transform="scale(1)">
+   <use x="12500" xlink:href="#4_2_3" y="25000">
+   </use>
+  </g>
+ </g>
+</svg>

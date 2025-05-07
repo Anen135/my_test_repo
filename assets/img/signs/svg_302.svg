@@ -1,0 +1,22 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 40000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  7.24
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="35000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g fill="green">
+  <path d="M37492.67 7506.73c6903.56,0 12500,5596.44 12500,12500 0,6903.56 -5596.44,12500 -12500,12500 -6903.56,0 -12500,-5596.44 -12500,-12500 0,-6903.56 5596.44,-12500 12500,-12500zm0 2000c5798.99,0 10500,4701.01 10500,10500 0,5798.99 -4701.01,10500 -10500,10500 -5798.99,0 -10500,-4701.01 -10500,-10500 0,-5798.99 4701.01,-10500 10500,-10500z">
+  </path>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <path d="M38171.49 21824.33l0 -6615.98 -4201.79 6615.98 4201.79 0zm-66.35 5720.34l0 -3339.32 -6523.83 0 0 -2720.11 5698.22 -8956.45 3833.21 0 0 9221.83 1791.29 0 0 2454.73 -1791.29 0 0 3339.32 -3007.6 0z">
+  </path>
+  <use x="0" xlink:href="#border 350x700" y="0">
+  </use>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.11
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="resting-place">
+   <path d="M28077 11308c1369,5576 5673,9839 11075,10969 -2408,1821 -5336,2734 -8305,2590 3196,5560 8944,8969 15153,8987 -3938,2641 -8592,3871 -13260,3504l0 7009 -6411 0 0 -5942c-3458,1671 -7334,2150 -11071,1371 5662,-1907 9334,-7622 8881,-13820 -2035,1871 -4736,2743 -7425,2395 4212,-4056 6457,-9871 6117,-15843 -1274,919 -2836,1297 -4369,1065 2429,-4034 3265,-8895 2332,-13560 3205,3846 7056,7047 11363,9446 -1015,1236 -2522,1912 -4080,1829z">
+   </path>
+   <path d="M8846 35073l2191 0c232,0 451,96 615,265 162,171 253,402 253,642l0 472c0,500 -389,906 -868,906l-1464 0 2041 7009 -2331 0 -2186 -7009 -2477 0 -2434 7009 -2186 0 2434 -7009 -1317 0c-232,0 -451,-95 -615,-266 -160,-167 -253,-400 -253,-640l0 -472c0,-240 91,-473 253,-642 162,-169 383,-265 615,-265l1317 0 6412 0z">
+   </path>
+  </symbol>
+  <g transform="scale(1)">
+   <use x="14500" xlink:href="#resting-place" y="24000">
+   </use>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 95000 95000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  5.9
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="90000" rx="4500" ry="4500" width="90000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="86000" rx="2500" ry="2500" width="86000" x="4500" y="4500">
+  </rect>
+  <symbol id="5_9">
+   <path d="M40785 23734l5489 0 -8763 -15187 -8763 15187 5440 0 0 10683 6597 0 0 -10683zm3414 38690l3412 0 0 2221c0,1188 -854,1805 -1708,1808 -851,3 -1705,-591 -1705,-1808l1 -2221zm-16810 0l3412 0 0 2221c0,1188 -853,1805 -1707,1808 -851,3 -1705,-591 -1705,-1808l0 -2221zm17625 -1055c2783,0 3140,-753 3140,-3140l0 -14821c0,-1492 -1506,-3167 -3170,-3167l-14968 0c-1663,0 -3170,1684 -3170,3167l0 14821c0,2378 357,3140 3140,3140l15028 0zm-14747 -19092l14469 0c1028,0 1864,839 1864,1864l1 3834c0,1025 -840,1864 -1865,1864l-14469 0c-1025,0 -1864,-836 -1864,-1864l0 -3834c0,-1028 836,-1864 1864,-1864z" fill="#FFF">
+   </path>
+  </symbol>
+  <g fill="#FFF" transform="scale(1.275)">
+   <use x="0" xlink:href="#5_9" y="0">
+   </use>
+  </g>
+ </g>
+ <g fill="red">
+ </g>
+</svg>

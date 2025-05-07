@@ -1,0 +1,28 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 110000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  6.10
+ </title>
+ <g fill="#FFF" stroke="gray" stroke-width="800">
+  <rect height="105000" rx="4500" ry="4500" width="70000" x="2500" y="2500">
+  </rect>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+  <rect height="101000" rx="2500" ry="2500" width="66000" x="4500" y="4500">
+  </rect>
+  <rect fill="#FFFFFF" height="57000" rx="2000" ry="2000" width="57000" x="9000" y="17500">
+  </rect>
+ </g>
+ <g fill="red">
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <symbol id="camping-place">
+   <path d="M28349 0l-4349 7222 -4349 -7222 -1822 978 5144 8081 -16435 27702 -6538 0 0 2239 48000 0 0 -2239 -6692 0 -16019 -27934 4993 -7703 -1933 -1124zm-4349 22630l8759 14131 -17364 0 8605 -14131z">
+   </path>
+  </symbol>
+  <g transform="scale(1)">
+   <use x="13500" xlink:href="#camping-place" y="28000">
+   </use>
+  </g>
+ </g>
+</svg>

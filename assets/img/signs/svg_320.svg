@@ -1,0 +1,42 @@
+<svg role="img" style="shape-rendering: geometricPrecision;
+text-rendering: optimizeLegibility; fill-rule:evenodd; clip-rule:evenodd;" version="1.1" viewbox="0 0 75000 75000" width="140px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <title>
+  3.15 временный
+ </title>
+ <g fill="#FFD323" stroke="gray" stroke-width="800">
+  <circle cx="37500" cy="37500" r="35000">
+  </circle>
+ </g>
+ <g class="blue_layer" fill="#0177D9" style="fill-rule: evenodd; clip-rule: nonzero;">
+ </g>
+ <g fill="red">
+  <path d="M37500 3500c18778,0 34000,15222 34000,34000 0,18778 -15222,34000 -34000,34000 -18778,0 -34000,-15222 -34000,-34000 0,-18778 15222,-34000 34000,-34000zm0 6000c15464,0 28000,12536 28000,28000 0,15464 -12536,28000 -28000,28000 -15464,0 -28000,-12536 -28000,-28000 0,-15464 12536,-28000 28000,-28000z">
+  </path>
+ </g>
+ <g class="black_layer" fill="#000" stroke="#000" stroke-width="0.8mm" style="shape-rendering: geometricPrecision">
+  <g transform="scale(0.85)">
+   <use x="20000" xlink:href="#truck_side" y="22000">
+   </use>
+  </g>
+  <g transform="rotate(90, 37500, 37500)">
+   <use x="45000" xlink:href="#3_13" y="50000">
+   </use>
+  </g>
+  <g transform="rotate(-90, 37500, 37500)">
+   <use x="16500" xlink:href="#3_13" y="50000">
+   </use>
+  </g>
+  <g transform="scale(0.88)">
+   <use x="33000" xlink:href="#digit 1 fill #000" y="48000">
+   </use>
+  </g>
+  <g transform="scale(0.88)">
+   <use x="42000" xlink:href="#digit 0 fill #000" y="48000">
+   </use>
+  </g>
+  <g transform="scale(1)">
+   <use x="32500" xlink:href="#char м fill #000" y="50000">
+   </use>
+  </g>
+ </g>
+</svg>
